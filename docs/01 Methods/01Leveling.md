@@ -1,5 +1,5 @@
 ---
-title: Leveling
+title: Levelling
 layout: home
 nav_order: 1
 parent: Field Methods Descriptions
@@ -11,7 +11,7 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Field Methods Descriptions - **Leveling**
+# Field Methods Descriptions - **Levelling**
 
 ## Introduction to levelling
 To interpret groundwater level measurements in terms of hydraulic gradients, groundwater flow velocities, and directions, it is necessary to relate them to a reference point within a coordinate system (geodetic datum). A commonly used reference point is the sea level. Measurements of groundwater levels (see [ADD LINK LATER]) yield primarily depth to water table with a referring to the top of each well casing/top of observation well. Should these measurements be used to determine gradients, the elevation of the top of the well casing above the common datum, needs to be known.
