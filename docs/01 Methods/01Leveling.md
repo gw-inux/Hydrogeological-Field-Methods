@@ -23,6 +23,7 @@ Figure: ![Principle sketch of levelling Source: Levelling. (2024, August 10). In
 * Surveying instrument
 * Staff, staff level
 * Tripod
+
 ## Directions
 * Install the instrument at a distance to the measurement point, adjusting the bull’s eye spirit level such that the bubble is centered
 * The assistant (A) sets staff on measurement point and holds staff steady, centering the spirit level’s bubble.

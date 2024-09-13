@@ -1,7 +1,7 @@
 ---
-title: Slug Test
+title: Soil Sampling
 layout: home
-nav_order: 3
+nav_order: 8
 parent: Field Methods Descriptions
 has_children: false
 ---
@@ -11,6 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Field Methods Descriptions - **Slug Test**
+# Field Methods Descriptions - **Soil Sampling**
 
 ## Introduction to 
