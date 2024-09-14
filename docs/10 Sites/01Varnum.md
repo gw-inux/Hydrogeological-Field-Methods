@@ -21,6 +21,12 @@ has_children: false
 
 Figure: ![Field site in Varnum/Sweden](../assets/images/10S/Varnum01.png)
 
+<figure>
+  <img src="../assets/images/10S/Varnum01.png" alt="Field site in Varnum/Sweden"/>
+  <figcaption>Field site in Varnum/Sweden.</figcaption>
+</figure>
+
+
 * Groundwater reservoir is located in between several lakes (Stora Kleven, Lilla Kleven Mellansjön, Marsjön)
 * Approximately 80 000 people are connected to municipal water in Borås.
 * Present water reservoir (Öresjö) is exposed to large risk due to roads, railroads, and industry.
