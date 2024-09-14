@@ -14,6 +14,7 @@ has_children: false
 # Field Methods Checklists - **Groundwater Level Measurements**
 
 ## Checklist for electric measuring tape:
+
 - [] Check if light/sound of measuring tape is functional.
 - [ ] Run tape down the well, be careful not to cause wear on the cable at the well head. Well casing often has sharp metal edges.
 - [ ] Ensure that you have found the exact level, by pulling cable up and finding the water level a couple of times.
@@ -22,6 +23,7 @@ has_children: false
 - [ ] Do not leave the dipper immersed in water longer than necessary
 
 ## Pressure transducer (PT):
+
 - [ ] Connect a barometric pressure transducer to computer and open control software
 - [ ] Set starting time for measuring barometric pressure
 - [ ] Connect PT to control software
