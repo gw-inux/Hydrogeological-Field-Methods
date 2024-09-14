@@ -2,7 +2,7 @@
 title: Checklist Groundwater Level Measurements
 layout: home
 nav_order: 2
-parent:Checklists
+parent: Checklists
 has_children: false
 ---
 
