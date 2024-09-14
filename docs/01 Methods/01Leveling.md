@@ -16,8 +16,11 @@ has_children: false
 ## Introduction to levelling
 To interpret groundwater level measurements in terms of hydraulic gradients, groundwater flow velocities, and directions, it is necessary to relate them to a reference point within a coordinate system (geodetic datum). A commonly used reference point is the sea level. Measurements of groundwater levels (see [ADD LINK LATER]) yield primarily depth to water table with a referring to the top of each well casing/top of observation well. Should these measurements be used to determine gradients, the elevation of the top of the well casing above the common datum, needs to be known.
 We speak of levelling, when elevations of points or differences in elevation are determined. When measuring the difference in height ΔH between two points vertical rods are set up on top of the points and a level somewhere between them. The height difference is the difference between the staff readings. Measurements can be continued for multiple points. Possible errors are bad readings from unsteady staff, joint errors (errors of the graduations at the hinges of folding staffs, or between the sections of extension staffs)/
- 
-Figure: ![Principle sketch of levelling Source: Levelling. (2024, August 10). In Wikipedia. https://en.wikipedia.org/wiki/Levelling](../assets/images/01M/Levelling.png)
+
+<figure>
+  <img src="../assets/images/01M/Levelling.png" alt="Principle sketch of levelling"/>
+  <figcaption>Figure: Principle sketch of levelling; source: Levelling. (2024, August 10). In Wikipedia. https://en.wikipedia.org/wiki/Levelling.</figcaption>
+</figure>
 
 ## Equipment
 * Surveying instrument

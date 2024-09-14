@@ -19,11 +19,9 @@ has_children: false
 * The study site is ca 3 km2.
 * The area is rural with small villages, relatively flat, with lakes and forests. The following figure shows the site.
 
-Figure: ![Field site in Varnum/Sweden](../assets/images/10S/Varnum01.png)
-
 <figure>
   <img src="../assets/images/10S/Varnum01.png" alt="Field site in Varnum/Sweden"/>
-  <figcaption>Field site in Varnum/Sweden.</figcaption>
+  <figcaption>Figure: Field site in Varnum/Sweden.</figcaption>
 </figure>
 
 
@@ -34,7 +32,10 @@ Figure: ![Field site in Varnum/Sweden](../assets/images/10S/Varnum01.png)
 * In 1992, a groundwater exploration was conducted throughout the municipal and adjacent area, in order to identify important groundwater assets and possible surface water reservoirs.
 * A more detailed study was conducted in 1998, where areas of artificial infiltration (from surrounding lakes) was sought after.
 
-Figure: ![Location of the field site in Varnum](../assets/images/10S/VarnumMap.png)
+<figure>
+  <img src="../assets/images/10S/VarnumMap.png" alt="Location of the field site in Varnum"/>
+  <figcaption>Figure: Location of the field site in Varnum.</figcaption>
+</figure>
 
 You can see (and modify) the map of Varnum on [OpenStreetMap](https://www.openstreetmap.org/relation/7722209#map=14/57.82414/13.14651)
 
