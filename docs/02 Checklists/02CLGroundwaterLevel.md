@@ -15,7 +15,7 @@ has_children: false
 
 ## Checklist for electric measuring tape:
 
-- [] Check if light/sound of measuring tape is functional.
+- [ ] Check if light/sound of measuring tape is functional.
 - [ ] Run tape down the well, be careful not to cause wear on the cable at the well head. Well casing often has sharp metal edges.
 - [ ] Ensure that you have found the exact level, by pulling cable up and finding the water level a couple of times.
 - [ ] Note level at the highest point of the well casing, time, well name, operator and comment any irregularities or other useful information.
