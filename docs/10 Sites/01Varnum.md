@@ -41,6 +41,8 @@ You can see (and modify) the map of Varnum on [OpenStreetMap](https://www.openst
 
 ## Geological characterization
 
+test 
+
 ## Available infrastructure
 
 ## Available data
