@@ -42,14 +42,14 @@ The variability in the erupted products affects the hydraulic heterogeneity of t
 
 
 
-<figure>
+<figure><p align="center">
   <img src="../assets/images/10S/Fig1_LazioHG_map.png" alt="Map of hydrogeological units"/>
   <figcaption><p align="center"><em>Figure 1. Map of hydrogeological units of Latium volcanic domain (modified from Capelli et al., 2012).  
 Legend: a) alluvial Units; b) volcanic Units; c) clastic-alluvial Units; d) flysch Units; e) carbonate Units;  
 f) localized springs (mean discharge > 50L/s); g) linear springs (mean discharge > 50L/s);  
 h) main groundwater flowpath; i) boundary of hydrogeological volcanic units;  
 l) boundary of hydrogeological volcanic basins.</em></p></figcaption>
-</figure>
+</p></figure>
 
 
 
@@ -76,11 +76,12 @@ A relation among regional fractures and the concentration of fluoride and arseni
 The Vulsini Volcanic District, located south of the Siena-Radicofani graben and west of the Tiber River (Figure 2), was active between 600 ka and 100 ka. Its products extend over an area of approximately 2200 km2, distributed radially from the tectonic volcano depression occupied by Lake Bolsena (G Nappi et al., 2004). 
 From a geodynamic point of view, the volcanic complex is connected to the post-Miocene extensional tectonics, which followed the compressional phase responsible for the formation of the Apennine chain.
   
+<figure>
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_fig2.png" alt="Vulsini District"/>
+  <figcaption><p align="center"><em>Figure 2.  Schematic geological-structural map of the Vulsino Volcanic District (from Vezzoli et al., 1987). 1) Quaternary sedimentary deposits, 2) Vulcanites of the "complexes" of Latera (LVC), Bolsena-Orvieto (BOVC), Montefiascone (MVC), southern Vulsini (SVVC) and of the Vicano district (VVC), 3) Neoautocotone succession, 4) Succession Liguride and Subliguride, 5) Non-metamorphic Tuscan succession, 6) Metamorphic Tuscan succession, 7) Main faults, 8) Thrust fronts of the Tuscan nappe, 9) Caldric rims.</em></p></figcaption>
+</figure>
 
 
-
-
-<p align="center"><em>Figure 2.  Schematic geological-structural map of the Vulsino Volcanic District (from Vezzoli et al., 1987). 1) Quaternary sedimentary deposits, 2) Vulcanites of the "complexes" of Latera (LVC), Bolsena-Orvieto (BOVC), Montefiascone (MVC), southern Vulsini (SVVC) and of the Vicano district (VVC), 3) Neoautocotone succession, 4) Succession Liguride and Subliguride, 5) Non-metamorphic Tuscan succession, 6) Metamorphic Tuscan succession, 7) Main faults, 8) Thrust fronts of the Tuscan nappe, 9) Caldric rims.</em></p>
 
 
 As part of the evolution of the Vulsino District, five volcanic complexes can be distinguished: Paleobolsena, Bolsena, Montefiascone, Latera e Neobolsena (G Nappi et al., 1998).   
