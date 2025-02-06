@@ -90,7 +90,7 @@ The landfill plant is located about 10 km from Viterbo, at an approximate altitu
 
 
 <figure><p align="center">
-  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_geographic.jpg" alt="Geogrphical framework"/>
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_geographic.jpg" alt="Geographical framework"/>
   <figcaption><em>Figure 3. Geographic framework of the site.</em></figcaption>
 </p></figure>
 
@@ -143,10 +143,9 @@ The spacing of the piezometric contour lines show that the hydraulic gradient is
 Regarding the relationship between groundwater and streams, the potentiometric surface shows a convergent flow towards the low course of the river Marta and its tributaries (Leia, Biedano and Traponzo streams). These branches of hydrographic network are the main discharge of the volcanic aquifer, according to the high flow rate increments measured in the streams during the investigation (overall 1.8, 4.5 and 2.5 m3/s in May 2004, March 2005 and May 2005) and the reduced flow rate of the examined springs (on the whole about 0.3 m<sup>3</sup>/s). 
 The reconstructed potentiometric surface has been compared with that quoted from Capelli et al. (2005) which used piezometric data referred to a homogeneous period of time (2002-2003). The comparison showed that the differences between the two reconstructions were minor except for the eastern (around Viterbo) and north-western sectors (around Valentano) where there are some differences in the piezometric contour lines. The potentiometric surface reported in Capelli et al., (2005) also highlights a hydrogeological basin wider than the drainage basin; the difference of the surface area between the two hydrogeological basins is less than 20 km<sup>2</sup> considering the same river section.
 
-<figure><p align="center">
+<figure>
   <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_Basin_HG_map.png" alt="Hydrogeological Map"/>
-  <figcaption><em>Figure 5. Simplified hydrogeological map from BAIOCCHI et al., 2008. 1 – Watershed; 2 – Alluvial complex; 3 – Travertine complex; 4 – Unconsolidated pyroclastic complex; 5 – Pyroclastic complex; 6 – Lavas complex; 7 – Clayey-sandy-conglomeratic complex; 8 – Marly-calcareous-arenaceous complex; 9 – Main gaining streams; 10 – Gauging stations of streamflow (Ponte Cartiera station; CT: Centrale Traponzo station); 11 – Streamflow measuraments and value of discharge in m<sup>2</sup>/s referring to March 2005 (a: natural river-bed; b: catchment canal); 12 – Wells considered for the potentiometric surface reconstruction; 13 – Springs (a: fresh water; b: thermal or mineral water); 14 – Piezometric contour lines and elevation in m asl; 15 – Supposed groundwater divide.</em></figcaption>
-</p></figure>
+  <figcaption><em>Figure 5. Simplified hydrogeological map from BAIOCCHI et al., 2008. 1 – Watershed; 2 – Alluvial complex; 3 – Travertine complex; 4 – Unconsolidated pyroclastic complex; 5 – Pyroclastic complex; 6 – Lavas complex; 7 – Clayey-sandy-conglomeratic complex; 8 – Marly-calcareous-arenaceous complex; 9 – Main gaining streams; 10 – Gauging stations of streamflow (Ponte Cartiera station; CT: Centrale Traponzo station); 11 – Streamflow measuraments and value of discharge in m<sup>2</sup>/s referring to March 2005 (a: natural river-bed; b: catchment canal); 12 – Wells considered for the potentiometric surface reconstruction; 13 – Springs (a: fresh water; b: thermal or mineral water); 14 – Piezometric contour lines and elevation in m asl; 15 – Supposed groundwater divide.</em></figcaption></figure>
 
 
 # References 
