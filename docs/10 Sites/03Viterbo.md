@@ -54,7 +54,7 @@ l) boundary of hydrogeological volcanic basins.</em></p></figcaption>
 
 
 
-The volcanic aquifers discharge mainly into the streams and rivers and secondarily into the springs. Numerous springs are related to the perched aquifers and generally discharge less than 0.01 m3/s, characterizing systems with a more fractioned groundwater circulation. Exchanges between the surface water of the volcanic lakes and the groundwater of the basal aquifers have been found with flow from the aquifer toward the lakes and viceversa. The present knowledge regarding the groundwater resources of the volcanic aquifers is based on water budget estimations. Table 2 summarizes the available estimates for each volcanic aquifer. 
+The volcanic aquifers discharge mainly into the streams and rivers and secondarily into the springs. Numerous springs are related to the perched aquifers and generally discharge less than 10 l/s, characterizing systems with a more fractioned groundwater circulation. Exchanges between the surface water of the volcanic lakes and the groundwater of the basal aquifers have been found with flow from the aquifer toward the lakes and viceversa. The present knowledge regarding the groundwater resources of the volcanic aquifers is based on water budget estimations. Table 2 summarizes the available estimates for each volcanic aquifer. 
 
 
 *Table 2. Estimations of water budget for the volcanic aquifers; components are reported as the average value per unit surface.*
@@ -84,33 +84,22 @@ From a geodynamic point of view, the volcanic complex is connected to the post-M
 
 
 
-As part of the evolution of the Vulsino District, five volcanic complexes can be distinguished: Paleobolsena, Bolsena, Montefiascone, Latera e Neobolsena (G Nappi et al., 1998).   
-
-1. **Paleobolsena**: Oldest products up to 576 ± 6.5 ka, forming the Paleobolsena caldera.  
-2. **Bolsena**: Progressive subsidence of the eastern caldera plane, producing welded scoria deposits.  
-3. **Montefiascone**: Installation of mafic lava flows and abundant pyroclastic deposits.  
-4. **Latera**: Formation of ignimbritic deposits.  
-5. **Neobolsena**: Later volcanic activity.
-
-
-
-
-
-
-<p align="center"><em>Figure 3. Source areas of five Plinian fallout deposits: P1 basic pumice, P2 Ponticello pumice, Orvieto-Bagnoregio pumice, P4 Ospedaletto pumice, P5 Casetta pumice. The lines with the triangles represent caldera rims; the irregular line marks the limit of the volcanic products (from (Giovanni Nappi & Valentini, 2005).</em></p>
-
-
-
 ## The Landfill Site  
 
-The landfill plant is located about 10 km from Viterbo, at an approximate altitude of 220 m above sea level, on the southern side of the Vulsino apparatus (Figure 4). The site is inside the watershed of the Marta River, the only emissary of Lake Bolsena, whose estuary is located on the Lazio coast near the Tarquinia plain. The watershed covers a total area of approximately 1071.2 km2, including the lake of Bolsena of approximately 114 km2. 
-“Le Fornaci” landfill covers a total area of approximately 50 hectares and is divided into three pits, two of which have been exhausted and one is exploited since 2009. The first pit, located north of the site, is divided into two sublots for a total volume of about 373,000 m3. The second one, located at the center and toward the south of the site, has a total volume of about 1,370,000 m3. Finally, the third operational pit has a volume of 850,000 m3 (Figure 5).
+The landfill plant is located about 10 km from Viterbo, at an approximate altitude of 220 m above sea level, on the southern side of the Vulsino apparatus. The site is inside the watershed of the Marta River, the only emissary of Lake Bolsena, whose estuary is located on the Lazio coast near the Tarquinia plain. The watershed covers a total area of approximately 1071.2 km2, including the lake of Bolsena of approximately 114 km2. 
 
 
+<figure><p align="center">
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_geographic.jpg" alt="Geogrphical framework"/>
+  <figcaption><em>Figure 4. Geographic framework of the site.</em></figcaption>
+</p></figure>
 
+“Le Fornaci” landfill covers a total area of approximately 50 hectares and is divided into three pits, two of which have been exhausted and one is exploited since 2009. The first pit, located north of the site, is divided into two sublots for a total volume of about 373,000 m3. The second one, located at the center and toward the south of the site, has a total volume of about 1,370,000 m3. Finally, the third operational pit has a volume of 850,000 m3.
 
-Figure 4. Geographic framework of the site.
-
+<figure><p align="center">
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_landfill_pits.jpg" alt="Geogrphical framework"/>
+  <figcaption><em>Figure 4. Geographic framework of the site.</em></figcaption>
+</p></figure>
 
 
 
@@ -154,5 +143,8 @@ The spacing of the piezometric contour lines show that the hydraulic gradient is
 Regarding the relationship between groundwater and streams, the potentiometric surface shows a convergent flow towards the low course of the river Marta and its tributaries (Leia, Biedano and Traponzo streams). These branches of hydrographic network are the main discharge of the volcanic aquifer, according to the high flow rate increments measured in the streams during the investigation (overall 1.8, 4.5 and 2.5 m3/s in May 2004, March 2005 and May 2005) and the reduced flow rate of the examined springs (on the whole about 0.3 m3/s). 
 The reconstructed potentiometric surface has been compared with that quoted from Capelli et al. (2005) which used piezometric data referred to a homogeneous period of time (2002-2003). The comparison showed that the differences between the two reconstructions were minor except for the eastern (around Viterbo) and north-western sectors (around Valentano) where there are some differences in the piezometric contour lines. The potentiometric surface reported in Capelli et al., (2005) also highlights a hydrogeological basin wider than the drainage basin; the difference of the surface area between the two hydrogeological basins is less than 20 km2 considering the same river section.
 
-  
-Figure 9. Simplified hydrogeological map from BAIOCCHI et al., 2008. 1 – Watershed; 2 – Alluvial complex; 3 – Travertine complex; 4 – Unconsolidated pyroclastic complex; 5 – Pyroclastic complex; 6 – Lavas complex; 7 – Clayey-sandy-conglomeratic complex; 8 – Marly-calcareous-arenaceous complex; 9 – Main gaining streams; 10 – Gauging stations of streamflow (Ponte Cartiera station; CT: Centrale Traponzo station); 11 – Streamflow measuraments and value of discharge in m3/s referring to March 2005 (a: natural river-bed; b: catchment canal); 12 – Wells considered for the potentiometric surface reconstruction; 13 – Springs (a: fresh water; b: thermal or mineral water); 14 – Piezometric contour lines and elevation in m asl; 15 – Supposed groundwater divide; 16 – Trace of hydrogeological cross-section.
+<figure><p align="center">
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_Basin_HG_map.png" alt="Hydrogeological Map"/>
+  <figcaption><em>Figure 9. Simplified hydrogeological map from BAIOCCHI et al., 2008. 1 – Watershed; 2 – Alluvial complex; 3 – Travertine complex; 4 – Unconsolidated pyroclastic complex; 5 – Pyroclastic complex; 6 – Lavas complex; 7 – Clayey-sandy-conglomeratic complex; 8 – Marly-calcareous-arenaceous complex; 9 – Main gaining streams; 10 – Gauging stations of streamflow (Ponte Cartiera station; CT: Centrale Traponzo station); 11 – Streamflow measuraments and value of discharge in m3/s referring to March 2005 (a: natural river-bed; b: catchment canal); 12 – Wells considered for the potentiometric surface reconstruction; 13 – Springs (a: fresh water; b: thermal or mineral water); 14 – Piezometric contour lines and elevation in m asl; 15 – Supposed groundwater divide.</em></figcaption>
+</p></figure>
+
