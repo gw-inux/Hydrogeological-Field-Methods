@@ -43,7 +43,7 @@ The variability in the erupted products affects the hydraulic heterogeneity of t
 
 
 <figure>
-  <img src="../assets/images/10S/Fig1_LazioHG_map.png" alt="Field site in Varnum/Sweden"/>
+  <img src="../assets/images/10S/Fig1_LazioHG_map.png" alt="Map of hydrogeological units"/>
   <figcaption><p align="center"><em>Figure 1. Map of hydrogeological units of Latium volcanic domain (modified from Capelli et al., 2012).  
 Legend: a) alluvial Units; b) volcanic Units; c) clastic-alluvial Units; d) flysch Units; e) carbonate Units;  
 f) localized springs (mean discharge > 50L/s); g) linear springs (mean discharge > 50L/s);  
