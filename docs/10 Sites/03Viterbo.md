@@ -27,7 +27,7 @@ The Pliocene magmatic activity began along the Tyrrhenian border, with emplaceme
 
 Different aquifer systems can be distinguished in relation to the type of volcano, hydrostratigraphy and volcano-tectonic setting. These factors control the boundaries and characteristics of flow in each aquifer system. Table 1 summarizes the primary information regarding the volcanoes’ hydrogeology from the available literature.
 
-#### Table 1: Summary of the main hydrogeological features for the volcanic aquifers  
+*Table 1: Summary of the main hydrogeological features for the volcanic aquifers*
 
 | System | Surface Area (km²) | Bottom Boundary | Lateral Boundaries | Aquifer Type | Discharge | Recharge |
 |--------|----------------|----------------|----------------|--------------|--------------|----------|
