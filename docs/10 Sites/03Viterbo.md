@@ -122,7 +122,7 @@ Le Fornaci site falls into the Marta River basin and the runoff direction is SSW
 The hydrogeological characterization of the outcropping rocks enabled to group the different formations into hydrogeological complexes. The main characteristics of the hydrogeological complexes recognized are given in Table 3. On the basis of this analysis, it concludes that the aquifer is constituted by the volcanic complexes, i.e., the lavas, pyroclastic and unconsolidated pyroclastic complexes. As a matter of fact, the volcanic and volcanoclastic rocks are characterized by high relative permeability, a significant thickness (generally from some meters to some tens of meters) and a more extensive outcropping in the area, occupying about 73% of the total basin area. These hydrogeological complexes of Pleistocene age are overlapped to Plio-Pleistocene and Cretaceous-Miocene sedimentary rocks grouped in the clayey-sandy-conglomeratic and marly-calcareous-arenaceous complexes (Figure 10). These latter two complexes are characterized by low relative permeability and define the lower limit of the volcanic aquifer. In the study area, the low permeable basement outcrops on the southern edge of the basin and in the central part (Figure 5) affecting the groundwater flow modalities of volcanic aquifer.
 
 The conceptual hydrogeological model has been reconstructed through the data concerning the wells and springs located in the basin and in its neighbourhood, the head of the water level of the gaining streams detected during the streamflow measurements and considering the limits of the low-permeable complexes.
-Using the data, it was possible to reconstruct the aquifer’s potentiometric surface which can be considered a mean surface on the piezometric levels of the period 1987-2004. It has chosen the contour level separation (50 m) in such a way to reduce the effects of the seasonal variations of piezometric level (generally less of few meters).
+Using the data, it was possible to reconstruct the aquifer’s potentiometric surface which can be considered a mean surface on the piezometric levels of the period 1987-2004. It has chosen the contour level separation (50 m) in such a way to reduce the effects of the seasonal variations of piezometric level (generally less than few meters).
 
 *Table 3. From Baiocchi et al. 2008. Summary of the characteristics of the hydrogeological complexes identified.*
 
@@ -150,31 +150,51 @@ The reconstructed potentiometric surface has been compared with that quoted from
 
 
 # References 
+
 Baiocchi, A., Dragoni, W., Lotti, F., Luzzi, G., & Piscopo, V. (2006). Outline of the hydrogeology of the Cimino and Vico volcanic area and of the interaction between groundwater and Lake Vico (Lazio Region, Central Italy). BOLLETTINO-SOCIETA GEOLOGICA ITALIANA, 125(2), 187.
+
 Baiocchi, A., Lotti, F., & Piscopo, V. (2012). Conceptual hydrogeological model and groundwater resource estimation in a complex hydrothermal area: the case of the Viterbo geothermal area (central Italy). Journal of Water Resource and Protection, 2012.
+
 Baiocchi, A., Lotti, F., & Piscopo, V. (2013). Impact of groundwater withdrawals on the interaction of multi-layered aquifers in the Viterbo geothermal area (central Italy). Hydrogeology Journal, 21(6), 1339.
+
 BAIOCCHI, A., LOTTI, F., PISCOPO, V., & ROCCHETTI, I. (2008). Interazioni tra acque sotterranee e Fiume Marta (Italia Centrale) e problematiche connesse con la determinazione del deflusso minimo vitale. Italian J. Eng. Geol. Environ. Spec. Issue, 37–55.
+
 Barberi, F., Buonasorte, G., Cioni, R., Fiordelisi, A., Foresi, L. M., Iaccarino, S., Laurenzi, M. A., Sbrana, A., Vernia, L., & Villa, I. M. (1994). Plio-Pleistocene geological evolution of the geothermal area of Tuscany and Latium. Memorie Descrittive Della Carta Geologica d’Italia, 49, 77–134.
+
 Beccaluva, L., Di Girolamo, P., & Serri, G. (1991). Petrogenesis and tectonic setting of the Roman Volcanic Province, Italy. Lithos, 26(3–4), 191–221.
+
 Capelli, G, Mastrorillo, L., Mazza, R., Petitta, M., Baldoni, T., Banzato, F., & Teoli, P. (2012). Carta Idrogeologica della Regione Lazio, scala 1: 100000 (4 fogli). Regione Lazio, S. EL. CA. Firenze. A cura della Regione Lazio, Area Difesa ….
+
 Capelli, Giuseppe, Mazza, R., & Gazzetti, C. (2005). Strumenti e strategie per la tutela e l’uso compatibile della risorsa idrica nel Lazio: gli acquiferi vulcanici:... (Vol. 78). Pitagora.
+
 Cimarelli, C., & De Rita, D. (2008). Carta delle geodiversità dei distretti vulcanici cimino e vicano in scala 1:75.000, con note illustrative. Edizioni ARP.
+
 Funiciello, R., Parotto, M., Salvini, F., Locardi, E., & DU, W. (1977). CORRELAZIONE TRA LINEAZIONI RELEVATE CON IL METODO" SHADOW" E ASSETTO TETTONICO NELL’AREA VULCANICA DEL LAZIO.
+
 Locardi, E., & Mittempergher, M. (1965). Study of an uncommon lava sheet in the Bolsena district (Central Italy). Bulletin Volcanologique, 28, 75–84.
+
 Minissale, A., Kerrick, D. M., Magro, G., Murrell, M. T., Paladini, M., Rihs, S., Sturchio, N. C., Tassi, F., & Vaselli, O. (2002). Geochemistry of Quaternary travertines in the region north of Rome (Italy): structural, hydrologic and paleoclimatic implications. Earth and Planetary Science Letters, 203(2), 709–728.
+
 Nappi, G, Antonelli, F., Coltorti, M., Milani, L., Renzulli, A., & Siena, F. (1998). Volcanological and petrological evolution of the eastern Vulsini district, central Italy. Journal of Volcanology and Geothermal Research, 87(1–4), 211–232.
+
 Nappi, G, Chiocchini, U., Cavicchia, D., Madonna, S., Bonomo, R., Ricci, V., Vita, L., Valentini, L., & Cavallucci, F. (2019). Foglio 345 Viterbo della Carta Geologica d’italia in scala 1: 50.000.
+
 Nappi, G, Valentini, L., & Mattioli, M. (2004). Ignimbritic deposits in central Italy: pyroclastic products of the Quaternary age and Etruscan footpaths. 32nd International Geological Congress Florence Field Trip Guide Book P, 9.
+
 Nappi, Giovanni, & Valentini, L. (2005). Structural evolution of the Vulsini Volcanic District (Central Italy). Acta Vulcanologica, 17(1/2), 81.
 Nicoletti, M. (1969). Datazioni argon-potassio di alcune vulcaniti delle regioni vulcaniche Cimina e Vicana. Periodico Di Mineralogia, 38(1), 1–20.
+
 Palladino, D. M., Simei, S., & Triglia, R. (2010). Note Illustrative della Carta Geologica d’Italia alla scala 1:50.000. 3.
 Parrone, D., Preziosi, E., Ghergo, S., & Del Bon, A. (2013). Hydrogeochemical characterisation of volcanic-sedimentary aquifer in Central Italy. Rendiconti Online Societa Geologica Italiana, 24, 232–234.
+
 Peccerillo, A., & Manetti, P. (1985). The potassium alkaline volcanism of central-southern Italy; a review of the data relevant to petrogenesis and geodynamic significance. South African Journal of Geology, 88(2), 379–394.
+
 Piscopo, V., Barbieri, M., Monetti, V., Pagano, G., Pistoni, S., Ruggi, E., & Stanzione, D. (2006). Hydrogeology of thermal waters in Viterbo area, central Italy. Hydrogeology Journal, 14, 1508–1521.
+
 Serri, G., Innocenti, F., & Manetti, P. (1993). Geochemical and petrological evidence of the subduction of delaminated Adriatic continental lithosphere in the genesis of the Neogene-Quaternary magmatism of central Italy. Tectonophysics, 223(1–2), 117–147.
+
 UGOLINI, R. (1921). Lava oligotrachitica nel cratere di Vico nei Cimini (e considerazioni sull’antico livello delle acque). L’Universo, A, 2.
 Vedova, B. Della, Bellani, S., Pellis, G., & Squarci, P. (2001). Deep temperatures and surface heat flow distribution. In Anatomy of an orogen: The Apennines and adjacent Mediterranean basins (pp. 65–76). Springer.
+
 Vezzoli, L., Conticelli, S., Innocenti, F., Landi, P., Manetti, P., Palladino, D. M., & Trigila, R. (1987). Stratigraphy of the Latera Volcanic Complex: proposals for a new nomenclature. Periodico Di Mineralogia, 56, 89–110.
-
-
 
