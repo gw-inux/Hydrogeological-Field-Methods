@@ -77,7 +77,7 @@ The Vulsini Volcanic District, located south of the Siena-Radicofani graben and 
 From a geodynamic point of view, the volcanic complex is connected to the post-Miocene extensional tectonics, which followed the compressional phase responsible for the formation of the Apennine chain.
   
 <figure><p align="center">
-  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_fig2.png" alt="Vulsini District"/>
+  <img src="docs/assets/images/10S/Viterbo_fig2.png"/>
   <figcaption><p align="center"><em>Figure 2.  Schematic geological-structural map of the Vulsino Volcanic District (from Vezzoli et al., 1987). 1) Quaternary sedimentary deposits, 2) Vulcanites of the "complexes" of Latera (LVC), Bolsena-Orvieto (BOVC), Montefiascone (MVC), southern Vulsini (SVVC) and of the Vicano district (VVC), 3) Neoautocotone succession, 4) Succession Liguride and Subliguride, 5) Non-metamorphic Tuscan succession, 6) Metamorphic Tuscan succession, 7) Main faults, 8) Thrust fronts of the Tuscan nappe, 9) Caldric rims.</em></p></figcaption>
 </p></figure>
 
@@ -95,7 +95,7 @@ The landfill plant is located about 10 km from Viterbo, at an approximate altitu
 “Le Fornaci” landfill covers a total area of approximately 50 hectares and is divided into three pits, two of which have been exhausted and one is exploited since 2009. The first pit, located north of the site, is divided into two sublots for a total volume of about 373,000 m<sup>3</sup>. The second one, located at the center and toward the south of the site, has a total volume of about 1,370,000 m<sup>3</sup>. Finally, the third operational pit has a volume of 850,000 m<sup>3</sup>.
 
 <figure><p align="center">
-  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_landfill_pits.jpg" alt="Geogrphical framework"/>
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/main/docs/assets/images/10S/Viterbo_landfill_pits.jpg" alt="Landfill area"/>
   <figcaption><p align="center"><em>Figure 4. Scheme of the "Le Fornaci" landfill plant.</em></p></figcaption>
 </p></figure>
 
