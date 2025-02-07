@@ -77,7 +77,7 @@ The Vulsini Volcanic District, located south of the Siena-Radicofani graben and 
 From a geodynamic point of view, the volcanic complex is connected to the post-Miocene extensional tectonics, which followed the compressional phase responsible for the formation of the Apennine chain.
   
 <figure><p align="center">
-  <img src="docs/assets/images/10S/Viterbo_fig2.png"/>
+  <img src="https://github.com/gw-inux/Hydrogeological-Field-Methods/blob/09d7f4490cb406454cdceb707b1962c32fb7af18/docs/assets/images/10S/Viterbo_fig2.png"/>
   <figcaption><p align="center"><em>Figure 2.  Schematic geological-structural map of the Vulsino Volcanic District (from Vezzoli et al., 1987). 1) Quaternary sedimentary deposits, 2) Vulcanites of the "complexes" of Latera (LVC), Bolsena-Orvieto (BOVC), Montefiascone (MVC), southern Vulsini (SVVC) and of the Vicano district (VVC), 3) Neoautocotone succession, 4) Succession Liguride and Subliguride, 5) Non-metamorphic Tuscan succession, 6) Metamorphic Tuscan succession, 7) Main faults, 8) Thrust fronts of the Tuscan nappe, 9) Caldric rims.</em></p></figcaption>
 </p></figure>
 
